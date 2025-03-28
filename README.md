@@ -1,4 +1,4 @@
 # Recipes
-Simple HTML website that links to a chocolate chip cookie recipe.
+Simple HTML recipe website that links to a couple of recipes 
 
 This is the first project in the Odin Project.
