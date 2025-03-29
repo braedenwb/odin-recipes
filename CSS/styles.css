@@ -18,6 +18,11 @@ p, ol{
     max-width: 650px;
 }
 
+footer {
+    bottom: 1%;
+    position: fixed;
+}
+
 /* home page styling */
 .title-home {
     text-align: center;
