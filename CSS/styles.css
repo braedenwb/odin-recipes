@@ -1,0 +1,31 @@
+/* Font defaults for all files */
+body {
+    background-image: linear-gradient(240deg, rgb(34, 73, 101), rgb(60, 68, 84));
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: large;
+    color: rgb(180, 170, 170);
+}
+
+a {
+    color: rgb(231, 199, 199);
+}
+
+img {
+    border-radius: 10px;
+}
+
+p, ol{
+    max-width: 650px;
+}
+
+/* home page styling */
+.title-home {
+    text-align: center;
+    font-size: 3rem;
+    font-weight: 800;
+}
+
+.links-home {
+    text-align: center;
+    font-size: 1.5rem;
+}
